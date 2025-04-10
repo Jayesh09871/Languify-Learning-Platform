@@ -1,7 +1,7 @@
 
 export default function Dashboard() {
   return (
-    <div>
+    <div className="bg-black">
       Dashboard
     </div>
   )
